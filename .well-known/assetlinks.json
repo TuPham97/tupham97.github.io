@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.capa.applinkstest",
+    "sha256_cert_fingerprints":
+    ["8B:21:54:5F:B5:01:3D:50:0B:BB:E1:F0:56:D7:CC:97:8C:C1:0C:8B:06:56:95:D1:DF:6D:30:97:87:4A:E2:9C"]
+  }
+}]
